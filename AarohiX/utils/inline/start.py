@@ -25,9 +25,9 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="💖 ғᴇᴇʟɪɴɢs 💖", url=f"https://t.me/RadhaX2Support"),
+                text="💖 ғᴇᴇʟɪɴɢs 💖", url=f"https://t.me/namohmusicsupport"),
             InlineKeyboardButton(
-                text="🥰 ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️] 🥰", url=f"https://t.me/GhostRadha"
+                text="🥰 ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️] 🥰", url=f"https://t.me/darkguy699"
             ),
         ],
         [
@@ -56,9 +56,9 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="💖 ғᴇᴇʟɪɴɢs 💖", url=f"https://t.me/RadhaX2Support"),
+                text="💖 ғᴇᴇʟɪɴɢs 💖", url=f"https://t.me/namohmusicsupport"),
             InlineKeyboardButton(
-                text="🥰 ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️] 🥰", url=f"https://t.me/GhostRadha"
+                text="🥰 ᴍʏ ʟɪғᴇʟɪɴᴇ[❣️] 🥰", url=f"https://t.me/darkguy699"
             ),
         ],
         [
@@ -69,7 +69,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                    text="🥰 ᴏᴡɴᴇʀ 🥰", url=f"https://t.me/GhostRadha"
+                    text="🥰 ᴏᴡɴᴇʀ 🥰", url=f"https://t.me/darkguy699"
                 )
         ],
      ]
